@@ -8,7 +8,7 @@ function App() {
       <input type="text" />
       <button>agregar</button>
       <button>limpiar</button>
-      <div></div>
+      <div>0 tareas</div>
     </>
   )
 }
