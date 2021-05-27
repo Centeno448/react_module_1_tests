@@ -3,7 +3,13 @@ import TareasLista from './TareasLista'
 
 function App() {
   return (
-    <TareasLista />
+    <>
+      <TareasLista />
+      <input type="text" />
+      <button>agregar</button>
+      <button>limpiar</button>
+      <div></div>
+    </>
   )
 }
 
